@@ -1,0 +1,45 @@
+
+<svg width="228px" height="347px" viewBox="0 0 228 347" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="116.090915%" y1="50%" x2="-53.4859166%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#451AFF" offset="0%"></stop>
+            <stop stop-color="#21FFCC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="116.090915%" y1="50%" x2="-53.4859166%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#FF1A79" offset="0%"></stop>
+            <stop stop-color="#FFE121" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="116.090915%" y1="50%" x2="-53.4859166%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#7FFF1A" offset="0%"></stop>
+            <stop stop-color="#21FF35" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="116.090915%" y1="50%" x2="-53.4859166%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#8B1AFF" offset="0%"></stop>
+            <stop stop-color="#FF21DB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="116.090915%" y1="50%" x2="-53.4859166%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#FFB31A" offset="0%"></stop>
+            <stop stop-color="#FFEE21" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="MangoV9" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3" transform="translate(-127.000000, -183.000000)">
+            <g id="Group-3" transform="translate(121.000000, 177.000000)">
+                <g id="Group-2" transform="translate(43.000000, 0.000000)">
+                    <path d="M-5,133.5 C-5,125.491871 1.49808811,119 9.50718765,119 L74.4928124,119 C82.5049109,119 89,125.49011 89,133.5 L89,133.5 C89,141.508129 82.5019119,148 74.4928124,148 L9.50718765,148 C1.49508915,148 -5,141.50989 -5,133.5 L-5,133.5 Z" id="Rectangle-5" fill="url(#linearGradient-1)" transform="translate(42.000000, 133.500000) rotate(130.000000) translate(-42.000000, -133.500000) "></path>
+                    <path d="M36.6,68.5 C36.6,60.8243629 42.8283375,54.6 50.5071876,54.6 L115.492812,54.6 C123.174226,54.6 129.4,60.8221672 129.4,68.5 C129.4,76.1756371 123.171662,82.4 115.492812,82.4 L50.5071876,82.4 C42.8257737,82.4 36.6,76.1778328 36.6,68.5 Z" id="Rectangle-5" stroke="#D9FF32" stroke-width="1.20000005" transform="translate(83.000000, 68.500000) rotate(130.000000) translate(-83.000000, -68.500000) "></path>
+                    <path d="M67,139.5 C67,131.491871 73.4980881,125 81.5071876,125 L146.492812,125 C154.504911,125 161,131.49011 161,139.5 L161,139.5 C161,147.508129 154.501912,154 146.492812,154 L81.5071876,154 C73.4950891,154 67,147.50989 67,139.5 L67,139.5 Z" id="Rectangle-5" fill="url(#linearGradient-2)" transform="translate(114.000000, 139.500000) rotate(130.000000) translate(-114.000000, -139.500000) "></path>
+                    <path d="M108,45.5 C108,37.4918711 114.498088,31 122.507188,31 L187.492812,31 C195.504911,31 202,37.4901104 202,45.5 L202,45.5 C202,53.5081289 195.501912,60 187.492812,60 L122.507188,60 C114.495089,60 108,53.5098896 108,45.5 L108,45.5 Z" id="Rectangle-5" fill="url(#linearGradient-3)" transform="translate(155.000000, 45.500000) rotate(130.000000) translate(-155.000000, -45.500000) "></path>
+                    <path d="M96.6,128.5 C96.6,120.824363 102.828338,114.6 110.507188,114.6 L175.492812,114.6 C183.174226,114.6 189.4,120.822167 189.4,128.5 C189.4,136.175637 183.171662,142.4 175.492812,142.4 L110.507188,142.4 C102.825774,142.4 96.6,136.177833 96.6,128.5 Z" id="Rectangle-5" stroke="#328CFF" stroke-width="1.20000005" transform="translate(143.000000, 128.500000) rotate(130.000000) translate(-143.000000, -128.500000) "></path>
+                </g>
+                <path d="M-5,307.5 C-5,299.491871 1.49808811,293 9.50718765,293 L74.4928124,293 C82.5049109,293 89,299.49011 89,307.5 L89,307.5 C89,315.508129 82.5019119,322 74.4928124,322 L9.50718765,322 C1.49508915,322 -5,315.50989 -5,307.5 L-5,307.5 Z" id="Rectangle-5" fill="url(#linearGradient-1)" transform="translate(42.000000, 307.500000) rotate(130.000000) translate(-42.000000, -307.500000) "></path>
+                <path d="M36.6,242.5 C36.6,234.824363 42.8283375,228.6 50.5071876,228.6 L115.492812,228.6 C123.174226,228.6 129.4,234.822167 129.4,242.5 C129.4,250.175637 123.171662,256.4 115.492812,256.4 L50.5071876,256.4 C42.8257737,256.4 36.6,250.177833 36.6,242.5 Z" id="Rectangle-5" stroke="#4132FF" stroke-width="1.20000005" transform="translate(83.000000, 242.500000) rotate(130.000000) translate(-83.000000, -242.500000) "></path>
+                <path d="M67,313.5 C67,305.491871 73.4980881,299 81.5071876,299 L146.492812,299 C154.504911,299 161,305.49011 161,313.5 L161,313.5 C161,321.508129 154.501912,328 146.492812,328 L81.5071876,328 C73.4950891,328 67,321.50989 67,313.5 L67,313.5 Z" id="Rectangle-5" fill="url(#linearGradient-4)" transform="translate(114.000000, 313.500000) rotate(130.000000) translate(-114.000000, -313.500000) "></path>
+                <path d="M108,219.5 C108,211.491871 114.498088,205 122.507188,205 L187.492812,205 C195.504911,205 202,211.49011 202,219.5 L202,219.5 C202,227.508129 195.501912,234 187.492812,234 L122.507188,234 C114.495089,234 108,227.50989 108,219.5 L108,219.5 Z" id="Rectangle-5" fill="url(#linearGradient-5)" transform="translate(155.000000, 219.500000) rotate(130.000000) translate(-155.000000, -219.500000) "></path>
+                <path d="M96.6,302.5 C96.6,294.824363 102.828338,288.6 110.507188,288.6 L175.492812,288.6 C183.174226,288.6 189.4,294.822167 189.4,302.5 C189.4,310.175637 183.171662,316.4 175.492812,316.4 L110.507188,316.4 C102.825774,316.4 96.6,310.177833 96.6,302.5 Z" id="Rectangle-5" stroke="#FF8C32" stroke-width="1.20000005" transform="translate(143.000000, 302.500000) rotate(130.000000) translate(-143.000000, -302.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

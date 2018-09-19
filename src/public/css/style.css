@@ -1,0 +1,290 @@
+@font-face {
+  font-family: Product-Sans-Bold;
+  src: url("../fonts/product-sans/Product-Sans-Bold.ttf");
+}
+@font-face {
+  font-family: Product-Sans-Bold-Italic;
+  src: url("../fonts/product-sans/Product-Sans-Bold-Italic.ttf");
+}
+@font-face {
+  font-family: Product-Sans-Italic;
+  src: url("../fonts/product-sans/Product-Sans-Italic.ttf");
+}
+@font-face {
+  font-family: Product-Sans-Regular;
+  src: url("../fonts/product-sans/Product-Sans-Regular.ttf");
+}
+
+:root {
+  --button-gradient: linear-gradient(90deg, #23d1fe 0%, #bd32fe 100%);
+}
+
+* {
+  font-family: Product-Sans-Bold !important;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  height: 100%;
+  overflow-x: hidden !important;
+  overflow-y: scroll !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h5 {
+  margin: 0;
+}
+
+*:focus {
+  outline: 0;
+  border: none;
+}
+
+.hide {
+  display: none;
+}
+
+/* -------------------------------------------------------- */
+
+.mango-logo {
+  display: block;
+  margin: auto;
+  height: 100px;
+}
+
+.main {
+  width: fit-content;
+  margin: 100px auto auto auto;
+}
+
+.main h1 {
+  text-align: center;
+  font-size: 75px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.main h3 {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  font-family: Product-Sans-Regular !important;
+}
+
+.main .pre-btn {
+  border: none;
+  margin: auto;
+  display: block;
+  border-radius: 99px;
+  color: black;
+  position: relative;
+  z-index: 1;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 17px 70px;
+  margin-top: 60px;
+  /* text-transform: uppercase; */
+  /* letter-spacing: 0.5px; */
+}
+
+.main .pre-btn:before,
+.main .pre-btn:after {
+  content: " ";
+  position: absolute;
+  border-radius: 99px;
+}
+
+.main .pre-btn:before {
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -2;
+  background: var(--button-gradient);
+}
+
+.main .pre-btn:after {
+  top: 2px;
+  bottom: 2px;
+  left: 2px;
+  right: 2px;
+  background-color: white;
+  z-index: -1;
+  opacity: 1;
+  transition: all 0.6s ease-in-out;
+}
+
+.main .pre-btn:hover {
+  cursor: pointer;
+}
+
+.sweetest-rectangle {
+  height: 20px;
+  width: 12.5rem;
+  background-color: #00fbb9;
+  margin-top: -58px;
+  z-index: -1;
+  display: block;
+  margin-left: 11rem;
+}
+
+/* -------------------------------------------------------- */
+.story {
+  text-align: left;
+  margin-top: 150px;
+  margin-left: 300px;
+}
+
+.story p {
+  font-family: Product-Sans-Regular !important;
+  font-size: 25px;
+  margin-top: 15px;
+  width: 500px;
+  line-height: 2;
+}
+
+.story p span {
+  color: #5e35fb !important;
+}
+
+.discovery-rectangle {
+  height: 20px;
+  width: 16.5rem;
+  background-color: #ffe251;
+  margin-top: -20px;
+  margin-left: 18.5rem;
+  z-index: -1;
+  display: block;
+}
+
+/* -------------------------------------------------------- */
+
+.submit-btn {
+}
+
+.input-field {
+  display: flex !important;
+  color: #5e35fb;
+  margin-left: 0px !important;
+}
+
+#the-form {
+  margin-top: 50px !important;
+  animation-duration: 0.2s;
+  width: fit-content;
+  margin: auto;
+}
+#email-label {
+  font-size: 25px;
+  color: #000000 !important;
+}
+#submit-btn {
+  font-family: Product-Sans-Regular !important;
+  /* background-color: transparent !important; */
+  color: black !important;
+  margin-left: -5em;
+  box-shadow: none;
+  background-color: #fff;
+  margin-top: 10px;
+  padding: 0 !important;
+}
+#email {
+  font-family: Product-Sans-Bold !important;
+  border-bottom: 2px solid black;
+  box-shadow: none !important;
+  color: #5e35fb;
+  width: 350px;
+  font-size: 35px;
+  padding: 5px 0px;
+  text-transform: lowercase;
+  padding-right: 6rem;
+}
+/* -------------------------------------------------------- */
+
+.footer-container {
+  margin-top: 200px;
+  position: relative;
+}
+
+footer {
+  position: absolute;
+  right: 10rem;
+  bottom: 5rem;
+  /* display: flex; */
+}
+footer a p {
+  margin-top: 5px;
+  font-size: 17px;
+  color: #5e35fb;
+  right: 0;
+  position: absolute;
+}
+
+footer .sm {
+  display: flex;
+}
+footer h5 {
+  margin-left: 20px;
+}
+footer .sm img {
+  margin: 0px 5px;
+}
+
+/* -------------------------------------------------------- */
+
+.la {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+/* Left */
+.la-tealLines {
+  margin-left: -15rem;
+  margin-top: 5rem;
+}
+
+.la-pills-2 {
+  margin-top: 20rem;
+  margin-left: -5rem;
+}
+
+.la-pills-3 {
+  margin-top: 65rem;
+  margin-left: -5rem;
+}
+
+/* Right */
+.ra {
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+.ra-purpLines {
+  margin-top: 25rem;
+  margin-right: -10rem;
+}
+
+.ra-pills-4 {
+  margin-top: -2rem;
+  margin-right: -3rem;
+}
+
+.ra-pills-5 {
+  margin-top: 55rem;
+  margin-right: -6rem;
+}
